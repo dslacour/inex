@@ -42,8 +42,38 @@ a:hover {
 }
         
        
-        p {
-  color: rgb(51, 62, 218);
+ p:link {
+          color: rgb(51, 62, 218);
+          text-decoration: none;
+        }
+        
+        /* visited link */
+        p:visited {
+          color: rgb(38, 0, 255)
+        }
+        
+        /* mouse over link */
+        p:hover {
+          color: hotpink;
+          font-style: ;
+          transition: 0.2 ease;
+        }
+
+p {
+    text-shadow: 0;
+    transition: all 2s;
+    -webkit-transition: all 2s;
+    letter-spacing: 2px;
+
+}
+
+p:hover {
+   color: transparent;
+   text-shadow: 0 0 3px rgba(177, 177, 177, 0.486);
+   letter-spacing: 3px;
+  
+
+   
 }
 
 
