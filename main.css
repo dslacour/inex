@@ -160,7 +160,7 @@ span:nth-child(18) {
 
 @keyframes mymove {
     from {
-        background-color: rgb(255, 0, 0);
+        background-color: rgb(186, 186, 186);
     }
 
     to {
