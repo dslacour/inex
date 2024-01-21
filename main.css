@@ -1,12 +1,12 @@
 /* unvisited link */
 a:link {
-    color: rgb(38, 0, 255);
+    color: rgb(232, 232, 232);
     text-decoration: none;
 }
 
 /* visited link */
 a:visited {
-    color: rgb(38, 0, 255)
+    color: rgb(232, 232, 232);
 }
 
 /* mouse over link */
@@ -152,7 +152,7 @@ span:nth-child(18) {
 #myDIV {
     height: 50px;
     width: 50px;
-    background-color: rgb(51, 62, 218);
+    background-color: rgb(212, 212, 212);
     border-radius: 50%;
     animation: mymove 5s infinite;
 
