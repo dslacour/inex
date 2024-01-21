@@ -1,12 +1,12 @@
 /* unvisited link */
 a:link {
-    color: rgb(202, 202, 202);
+    color: rgb(232, 232, 232);
     text-decoration: none;
 }
 
 /* visited link */
 a:visited {
-    color: rgb(232, 232, 232);
+    color: rgb(202, 202, 202);
 }
 
 /* mouse over link */
@@ -52,7 +52,7 @@ h1 {
     transform: scale(0.94);
     animation: scale 2s forwards cubic-bezier(0.5, 1, 0.89, 1);
     font-weight: normal;
-    color: rgb(161, 161, 161);
+    color: rgb(34, 34, 34);
 
 
 
